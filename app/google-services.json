@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "859125823960",
+    "project_id": "moitt-task",
+    "storage_bucket": "moitt-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859125823960:android:d013928494cca93a03daad",
+        "android_client_info": {
+          "package_name": "com.example.moitt_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859125823960-e0mc7di5cpqc1rki0d9b8l5fj7i4o1gc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moitt_task",
+            "certificate_hash": "1575a1d57c5fd35a3311592e98e16fb6fceddd86"
+          }
+        },
+        {
+          "client_id": "859125823960-u4ujqpm4g527jlldcr39c6uvr9nvjivk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMemIyVdCZAS_eKJZFcDGzIlJ6C86powk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859125823960-u4ujqpm4g527jlldcr39c6uvr9nvjivk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
